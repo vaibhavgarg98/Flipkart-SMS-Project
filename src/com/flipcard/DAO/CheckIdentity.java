@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
 
 import com.flipcard.constants.SqlConstantQueries;
 import com.flipcard.utils.DBUtil;
-//Database level class to verifu use.
+//Database level class to verify user.
 public class CheckIdentity {
 	//Logger object to write to console.
 	private Logger log = Logger.getLogger(CheckIdentity.class);
